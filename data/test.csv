@@ -1,4 +1,4 @@
-nombre, dni;email;plan;gender;fnac;edad;nacionalidad
+nombre, dni;email, plan, gender, fnac, edad, nacionalidad
 EPPENS, RAMîN;44940828;reppens@itba.edu.ar;A22;M;8/8/03;21;Argentina
 EPPENS, RAMîN;45325175;fsaroka@itba.edu.ar;A22;M;18/12/03;20;Argentina
 Trevisan, Catalina;46208226;ctrevisan@itba.edu.ar;A22;F;7/9/04;19;Argentina
