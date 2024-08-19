@@ -1,29 +1,29 @@
 nombre,dni,email,plan,gender,fnac,edad,nacionalidad
 EPPENS RAMîN,44940828,reppens@itba.edu.ar,A22,M,8/8/03,21,Argentina
-EPPENS RAMîN,45325175;fsaroka@itba.edu.ar;A22;M;18/12/03;20;Argentina
-Trevisan Catalina,46208226;ctrevisan@itba.edu.ar;A22;F;7/9/04;19;Argentina
-ZAPATA LUCIA,41645525;lzapata@itba.edu.ar;A22;F;31/10/98;25;Argentina
-da Silva Pinto Afonso,CC173581;adasilvapinto@itba.edu.ar;IN23;M;21/1/02;22;Portugal
-Matos de Araœjo Jo‹o Pedro,CC755795;jmatosdearaujo@itba.edu.ar;IN23;M;9/8/02;22;Portugal
-MONJARET Pierre;22AA97372,pmonjaret@itba.edu.ar;IN23;M;11/7/02;22;Francia
-TARDIEU Emilie;23KF56525,etardieu@itba.edu.ar;IN23;F;3/4/02;22;Francia
-BARAVALLE CONSTANTINO,43990677;cbaravalle@itba.edu.ar;L20;M;4/2/02;22;Argentina
-BERAZATEGUI OSCAR EMANUEL,45582154;oberazategui@itba.edu.ar;L20;M;25/2/04;20;Argentina
-CARUBIN PACIFICO JUAN,45234925;jcarubinpacifico@itba.edu.ar;L20;M;22/10/03;20;Argentina
-GALLARDO JUAN PABLO,45481853;jugallardo@itba.edu.ar;L20;M;31/1/04;20;Argentina
-KIRCHHEIMER SANTIAGO AGUSTIN,44937823;skirchheimer@itba.edu.ar;L20;M;25/7/03;21;Argentina
-URQUIZA SANTIAGO,41674803;surquiza@itba.edu.ar;L20;M;22/12/98;25;Argentina
-AGOPIAN MARIANO,43988594;maagopian@itba.edu.ar;S10-Rev23;M;5/4/02;22;Argentina
-BENVENUTO AGUSTIN,42232035;abenvenuto@itba.edu.ar;S10-Rev23;M;6/11/99;24;Argentina
-NEGRO CAINO IGNACIO NICOLçS,39391100;inegro@itba.edu.ar;S10-Rev23;M;30/11/95;28;Argentina
-SARTORIO ALAN GABRIEL,42492964;asartorio@itba.edu.ar;S10-Rev23;M;5/3/00;24;Argentina
-TOGNETTI IAN FRANCO,42249439;itognetti@itba.edu.ar;S10-Rev23;M;22/11/99;24;Argentina
-CARMAN TOMAS;43576390,tcarman@itba.edu.ar;L20;M;28/8/01;22;Argentina
-FERREIRO LUCAS AGUSTIN,42292742;lferreiro@itba.edu.ar;S10-Rev23;M;15/11/99;24;Argentina
-GALARZA AGUSTIN EZEQUIEL,42359035;agalarza@itba.edu.ar;S10-Rev23;M;12/11/99;24;Argentina
-GOMEZ KISS ROMAN;43264384,romgomez@itba.edu.ar;S10-Rev23;M;14/4/01;23;Argentina
-Clavin Moira Patricia;46579414;mclavin@itba.edu.ar;A22;F;10/3/05;19;Argentina
-Fretes Geronimo,46173632;gfretes@itba.edu.ar;A22;M;14/1/05;19;Estados Unidos
-ARLEO MARIA LUCERO,42952198;marleo@itba.edu.ar;L20;F;17/10/00;23;Argentina
-ALVAREZ ESCALANTE TOMAS GABRIEL,42192951;tomalvarez@itba.edu.ar;S10-Rev23;M;19/9/99;24;Argentina
-DEDEU MARCOS DIEGO,43568446;mdedeu@itba.edu.ar;S10-Rev23;M;25/3/00;24;Argentina
+EPPENS RAMîN,45325175,fsaroka@itba.edu.ar,A22,M,18/12/03,20,Argentina
+Trevisan Catalina,46208226,ctrevisan@itba.edu.ar,A22,F,7/9/04,19,Argentina
+ZAPATA LUCIA,41645525,lzapata@itba.edu.ar,A22,F,31/10/98,25,Argentina
+da Silva Pinto Afonso,CC173581,adasilvapinto@itba.edu.ar;IN23,M,21/1/02,22,Portugal
+Matos de Araœjo Jo‹o Pedro,CC755795,jmatosdearaujo@itba.edu.ar,IN23,M,9/8/02,22,Portugal
+MONJARET Pierre;22AA97372,pmonjaret@itba.edu.ar,IN23,M,11/7/02,22,Francia
+TARDIEU Emilie;23KF56525,etardieu@itba.edu.ar,IN23,F,3/4/02,22,Francia
+BARAVALLE CONSTANTINO,43990677,cbaravalle@itba.edu.ar,L20,M,4/2/02,22,Argentina
+BERAZATEGUI OSCAR EMANUEL,45582154,oberazategui@itba.edu.ar,L20,M,25/2/04,20,Argentina
+CARUBIN PACIFICO JUAN,45234925,jcarubinpacifico@itba.edu.ar,L20,M,22/10/03,20,Argentina
+GALLARDO JUAN PABLO,45481853,jugallardo@itba.edu.ar,L20,M,31/1/04,20,Argentina
+KIRCHHEIMER SANTIAGO AGUSTIN,44937823,skirchheimer@itba.edu.ar,L20,M;25/7/03,21,Argentina
+URQUIZA SANTIAGO,41674803,surquiza@itba.edu.ar,L20,M,22/12/98,25,Argentina
+AGOPIAN MARIANO,43988594,maagopian@itba.edu.ar,S10-Rev23,M,5/4/02,22,Argentina
+BENVENUTO AGUSTIN,42232035,abenvenuto@itba.edu.ar,S10-Rev23,M,6/11/99,24,Argentina
+NEGRO CAINO IGNACIO NICOLçS,39391100,inegro@itba.edu.ar,S10-Rev23,M,30/11/95,28,Argentina
+SARTORIO ALAN GABRIEL,42492964,asartorio@itba.edu.ar,S10-Rev23,M,5/3/00,24,Argentina
+TOGNETTI IAN FRANCO,42249439,itognetti@itba.edu.ar,S10-Rev23,M,22/11/99,24,Argentina
+CARMAN TOMAS,43576390,tcarman@itba.edu.ar,L20,M,28/8/01,22,Argentina
+FERREIRO LUCAS AGUSTIN,42292742,lferreiro@itba.edu.ar,S10-Rev23,M,15/11/99,24,Argentina
+GALARZA AGUSTIN EZEQUIEL,42359035,agalarza@itba.edu.ar,S10-Rev23,M,12/11/99,24,Argentina
+GOMEZ KISS ROMAN,43264384,romgomez@itba.edu.ar;S10-Rev23,M,14/4/01,23,Argentina
+Clavin Moira Patricia,46579414,mclavin@itba.edu.ar,A22,F,10/3/05,19,Argentina
+Fretes Geronimo,46173632,gfretes@itba.edu.ar,A22;M,14/1/05,19,Estados Unidos
+ARLEO MARIA LUCERO,42952198,marleo@itba.edu.ar,L20;F,17/10/00,23,Argentina
+ALVAREZ ESCALANTE TOMAS GABRIEL,42192951,tomalvarez@itba.edu.ar,S10-Rev23,M,19/9/99,24,Argentina
+DEDEU MARCOS DIEGO,43568446,mdedeu@itba.edu.ar,S10-Rev23,M,25/3/00,24,Argentina
